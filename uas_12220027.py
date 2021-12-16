@@ -74,7 +74,7 @@ def home():
     #box command
     st.sidebar.success("Please select the available features")
 
-    image = Image.open('images.jpeg')
+    image = Image.open('images.png')
     st.image(image, width=200)
     #desc
     st.markdown(
