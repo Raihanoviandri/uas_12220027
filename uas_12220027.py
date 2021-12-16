@@ -80,7 +80,7 @@ def home():
     st.markdown(
 
         """
-        ### Streamlit produksi minyak mentah
+        ### Streamlit Statistik Produksi Minyak Mentah
 
         \n
         """
