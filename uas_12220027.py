@@ -72,7 +72,7 @@ list_negara.sort()
 def home():
 
     #box command
-    st.sidebar.success("Please select the available features")
+    st.sidebar.success("Silakan pilih fitur yang tersedia")
 
     image = Image.open('images.png')
     st.image(image, width=200)
